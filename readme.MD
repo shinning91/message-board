@@ -11,3 +11,7 @@ Run `npm start` to run the app
 Open `localhost:3000`
 
 **Note**: Run Django backend app first as the React app will call an API to Django server to get latest posts. 
+
+![Get posts sorted by number of comments](/sample-result/get-posts.png)
+
+![Search comments](/sample-result/search-endpoint.png)
